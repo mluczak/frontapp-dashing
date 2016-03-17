@@ -1,0 +1,4 @@
+front:
+  front_app_id: 'company name'
+  front_api_secret: 'api secret'
+
